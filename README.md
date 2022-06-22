@@ -11,10 +11,16 @@
 
 ## Hi there 👋
 
-🔭  I’m working as a Software Engineer and contributing to Linux based system and Application for building user application
+🔭 I love open-source, software architecture! 
+
 🌱 Exploring Technical Content Writing.
-👯 In my free time I solve problems and read tech articles.
-⚡ I love open-source, software architecture!
+
+👯 In my free time, I solve problems and read or write tech articles.
+
 
 ## My github stat:
-![linuxias's github stats](https://github-readme-stats.vercel.app/api?username=linuxias&show_icons=true&theme=merko)
+![linuxias's github stats](https://github-readme-stats.vercel.app/api?username=linuxias&show_icons=true&theme=merko&count_private=true)
+
+## My Usage Language:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxias&hide=javascript,css,html&layout=compact&theme=merko)](https://github.com/linuxias/github-readme-stats)
