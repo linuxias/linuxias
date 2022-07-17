@@ -19,7 +19,7 @@
 
 
 ## My github stat:
-![linuxias's github stats](https://github-readme-stats.vercel.app/api?username=linuxias&show_icons=true&theme=merko&count_private=true)
+![linuxias's github stats](https://github-readme-stats.vercel.app/api?username=linuxias&show_icons=true&include_all_commits=true&theme=merko&count_private=true)
 
 ## My Usage Language:
 
