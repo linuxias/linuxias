@@ -18,9 +18,11 @@
 👯 In my free time, I solve problems and read or write tech articles.
 
 
-## My github stat:
+## My github stat && Usage language:
 ![linuxias's github stats](https://github-readme-stats.vercel.app/api?username=linuxias&show_icons=true&include_all_commits=true&theme=merko&count_private=true)
 
-## My Usage Language:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxias&hide=javascript,css,html&layout=compact&theme=merko)](https://github.com/linuxias/github-readme-stats)
+
+## Contribution Graph
+
+![](https://activity-graph.herokuapp.com/graph?username=linuxias&theme=github&area=true&count_private=true)
