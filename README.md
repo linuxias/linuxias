@@ -11,11 +11,11 @@
 
 ## Hi there 👋
 
-🔭 I love open-source, software architecture! 
+🔭 I love open-source ans software architecture! 
 
 🌱 Exploring Technical Content Writing.
 
-👯 In my free time, I solve problems and read or write tech articles.
+👯 In my free time, I read or write tech articles.
 
 
 ## My github stat && Usage language:
