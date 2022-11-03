@@ -18,7 +18,7 @@
 👯 In my free time, I enjoy to read or write tech articles.
 
 
-## My github stat && Usage language:
+## My github stat & Usage language:
 ![linuxias's github stats](https://github-readme-stats.vercel.app/api?username=linuxias&show_icons=true&include_all_commits=true&theme=merko&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxias&hide=javascript,css,html&layout=compact&theme=merko)](https://github.com/linuxias/github-readme-stats)
