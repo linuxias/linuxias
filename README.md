@@ -25,4 +25,4 @@
 
 ## Contribution Graph
 
-![](https://activity-graph.herokuapp.com/graph?username=linuxias&theme=github&area=true&count_private=true)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=linuxias&theme=github&area=true&count_private=true)
