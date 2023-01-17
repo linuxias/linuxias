@@ -19,9 +19,9 @@
 
 
 ## My github stat & Usage language:
-![linuxias's github stats](https://github-readme-stats.vercel.app/api?username=linuxias&show_icons=true&include_all_commits=true&theme=merko&count_private=true)
+![linuxias's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=linuxias&show_icons=true&include_all_commits=true&theme=merko&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linuxias&hide=javascript,css,html&layout=compact&theme=merko)](https://github.com/linuxias/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=linuxias&hide=javascript,css,html&layout=compact&theme=merko)](https://github.com/linuxias/github-readme-stats)
 
 ## Contribution Graph
 
